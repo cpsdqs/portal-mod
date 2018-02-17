@@ -5,3 +5,7 @@ This is a Minecraft mod that implements elements from [Portal](http://www.thinkw
 - A portal gun that shoots portals that look fancy but don't actually do anything
 - Lots of bugs
 
+## Usage (not recommended)
+1. Compile a jar artifact
+2. Install Minecraft Forge for 1.12.2-ish
+3. Put the jar in the `mods` folder
