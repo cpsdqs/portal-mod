@@ -1,0 +1,40 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "generator_front": "clportal:blocks/hard_light_bridge_generator_front",
+      "generator_back": "clportal:blocks/hard_light_bridge_generator_back",
+      "generator_side_z": "clportal:blocks/hard_light_bridge_generator_side_z",
+      "generator_side_x": "clportal:blocks/hard_light_bridge_generator_side_x",
+      "top": "clportal:blocks/hard_light_bridge",
+      "side": "clportal:blocks/hard_light_bridge",
+      "particle": "clportal:blocks/hard_light_bridge_generator_back"
+    },
+    "model": "clportal:hard_light_bridge_generator",
+    "uvlock": false
+  },
+  "variants": {
+    "inventory": [{
+      "x": 90,
+      "y": 180,
+      "model": "clportal:hard_light_bridge_generator_inventory"
+    }],
+    "direction": {
+      "down": {},
+      "up": { "x": 180 },
+      "south": { "x": 90 },
+      "north": { "x": 90, "y": 180 },
+      "east": { "x": 90, "y": 270 },
+      "west": { "x": 90, "y": 90 }
+    },
+    "powered": {
+      "true": {
+        "model": "clportal:hard_light_bridge_generator_powered",
+        "textures": {
+          "generator_front": "clportal:blocks/hard_light_bridge_generator_front_powered"
+        }
+      },
+      "false": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "clportal",
+    "name": "Portal",
+    "description": "portal thing",
+    "version": "1.0.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["cpsdqs"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

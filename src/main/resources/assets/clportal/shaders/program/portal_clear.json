@@ -1,0 +1,6 @@
+{
+  "vertex": "clportal:portal_clear",
+  "fragment": "clportal:portal_clear",
+  "attributes": [],
+  "uniforms": []
+}

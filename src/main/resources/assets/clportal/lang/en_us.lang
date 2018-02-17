@@ -1,0 +1,10 @@
+tile.hard_light_bridge_generator.name=Aperture Science Hard Light Bridge Generator
+tile.hard_light_bridge.name=Hard Light Bridge
+item.portal_gun.name=Aperture Science Handheld Portal Device
+entity.portal.name=Portal
+
+clportal.subtitles.fire_portal=Portal fired
+clportal.subtitles.light_bridge_land=Light bridge creaks
+clportal.subtitles.portal_ambient=Portal shimmers
+clportal.subtitles.portal_open=Portal opened
+clportal.subtitles.portal_fizzle=Portal fizzled

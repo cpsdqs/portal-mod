@@ -1,0 +1,17 @@
+{
+  "parent": "block/thin_block",
+  "elements": [
+    {
+      "from": [ -1, 5, 1 ],
+      "to": [ 17, 11, 6 ],
+      "faces": {
+        "down":  { "uv": [ 0,  0, 9, 2.5 ], "texture": "#generator_front" },
+        "up":    { "uv": [ 0,  0, 9, 2.5 ], "texture": "#generator_back" },
+        "north": { "uv": [ 0,  0, 9, 3 ], "texture": "#generator_side_z" },
+        "south": { "uv": [ 0,  0, 9, 3 ], "texture": "#generator_side_z" },
+        "west":  { "uv": [ 0,  0, 5, 6 ], "texture": "#generator_side_x" },
+        "east":  { "uv": [ 0,  0, 5, 6 ], "texture": "#generator_side_x" }
+      }
+    }
+  ]
+}

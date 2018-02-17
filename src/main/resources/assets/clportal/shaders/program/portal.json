@@ -1,0 +1,12 @@
+{
+  "vertex": "clportal:portal",
+  "fragment": "clportal:portal",
+  "attributes": [],
+  "uniforms": [
+    { "name": "time", "type": "float", "count": 1, "values": [0] },
+    { "name": "open_anim", "type": "float", "count": 1, "values": [0] },
+    { "name": "link_anim", "type": "float", "count": 1, "values": [0] },
+    { "name": "portal_size", "type": "float", "count": 2, "values": [0, 0] },
+    { "name": "portal_color", "type": "float", "count": 3, "values": [1, 1, 1] }
+  ]
+}

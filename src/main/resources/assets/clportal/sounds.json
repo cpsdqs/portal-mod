@@ -1,0 +1,95 @@
+{
+  "portalgun_fire_blue": {
+    "sounds": [
+      "clportal:portalgun_fire_blue1",
+      "clportal:portalgun_fire_blue2",
+      "clportal:portalgun_fire_blue3"
+    ],
+    "subtitle": "clportal.subtitles.fire_portal"
+  },
+  "portalgun_fire_orange": {
+    "sounds": [
+      "clportal:portalgun_fire_orange1",
+      "clportal:portalgun_fire_orange2",
+      "clportal:portalgun_fire_orange3"
+    ],
+    "subtitle": "clportal.subtitles.fire_portal"
+  },
+  "portalgun_miss_blue": {
+    "sounds": [
+      "clportal:portalgun_miss_blue1",
+      "clportal:portalgun_miss_blue2",
+      "clportal:portalgun_miss_blue3"
+    ],
+    "subtitle": "clportal.subtitles.fire_portal"
+  },
+  "portalgun_miss_orange": {
+    "sounds": [
+      "clportal:portalgun_miss_orange1",
+      "clportal:portalgun_miss_orange2",
+      "clportal:portalgun_miss_orange3"
+    ],
+    "subtitle": "clportal.subtitles.fire_portal"
+  },
+  "portalgun_invalid_surface": {
+    "sounds": [
+      "clportal:portalgun_invalid_surface1",
+      "clportal:portalgun_invalid_surface2",
+      "clportal:portalgun_invalid_surface3"
+    ],
+    "subtitle": "clportal.subtitles.fire_portal"
+  },
+  "portal_open_blue": {
+    "sounds": [
+      "clportal:portal_open_blue"
+    ],
+    "subtitle": "clportal.subtitles.portal_open"
+  },
+  "portal_open_orange": {
+    "sounds": [
+      "clportal:portal_open_orange"
+    ],
+    "subtitle": "clportal.subtitles.portal_open"
+  },
+  "portal_fizzle": {
+    "sounds": [
+      "clportal:portal_fizzle1",
+      "clportal:portal_fizzle2"
+    ],
+    "subtitle": "clportal.subtitles.portal_fizzle"
+  },
+  "portal_ambient": {
+    "sounds": [
+      "clportal:portal_ambient"
+    ],
+    "subtitle": "clportal.subtitles.portal_ambient"
+  },
+  "light_bridge_step": {
+    "sounds": [
+      "clportal:light_bridge/step1",
+      "clportal:light_bridge/step2",
+      "clportal:light_bridge/step3",
+      "clportal:light_bridge/step4",
+      "clportal:light_bridge/step5",
+      "clportal:light_bridge/step6",
+      "clportal:light_bridge/step7",
+      "clportal:light_bridge/step8",
+      "clportal:light_bridge/step9",
+      "clportal:light_bridge/step10",
+      "clportal:light_bridge/step11",
+      "clportal:light_bridge/step12",
+      "clportal:light_bridge/step13"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "light_bridge_land": {
+    "sounds": [
+      {
+        "name": "clportal:light_bridge_step",
+        "type": "event"
+      }
+    ],
+    "subtitle": "clportal.subtitles.light_bridge_land"
+  },
+  "null_sound": {}
+}

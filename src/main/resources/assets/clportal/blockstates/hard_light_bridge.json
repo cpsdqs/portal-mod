@@ -1,0 +1,23 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "top": "clportal:blocks/hard_light_bridge",
+      "side": "clportal:blocks/hard_light_bridge",
+      "particle": "clportal:blocks/hard_light_bridge"
+    },
+    "model": "clportal:hard_light_bridge_base",
+    "uvlock": false
+  },
+  "variants": {
+    "inventory": [{}],
+    "direction": {
+      "down": {},
+      "up": { "x": 180 },
+      "south": { "x": 90 },
+      "north": { "x": 90, "y": 180 },
+      "east": { "x": 90, "y": 270 },
+      "west": { "x": 90, "y": 90 }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "vertex": "clportal:portal_glow",
+  "fragment": "clportal:portal_glow",
+  "attributes": [],
+  "uniforms": [
+    { "name": "time", "type": "float", "count": 1, "values": [0] },
+    { "name": "open_anim", "type": "float", "count": 1, "values": [0] },
+    { "name": "fizzle_anim", "type": "float", "count": 1, "values": [0] },
+    { "name": "portal_size", "type": "float", "count": 3, "values": [0, 0, 0] },
+    { "name": "portal_color", "type": "float", "count": 3, "values": [0, 0, 0] }
+  ]
+}
